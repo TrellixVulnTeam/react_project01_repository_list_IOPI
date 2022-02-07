@@ -11,19 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# About 
+A list of RocketSeat repositories was made in this project.
 
-- Bulleted
-- List
+I used useEffect and UseState for specific ReactJS functions. I also learned how to do automation with React J functions and commands
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Linkedin](https://www.linkedin.com/in/edsonlsj/) [Instagram](https://www.instagram.com/edsonluiz.info/)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
